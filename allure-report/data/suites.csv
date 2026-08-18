@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2376","Add item and increase quantity","chromium","2026-08-18","passed","2026-08-18","Shopping Cart","cartQuantity.spec.ts","",""
+"","4233","Checkout succeed valid with valid receiver info (COD)","chromium","2026-08-18","passed","2026-08-18","Order Placement","checkout.spec.ts","",""
+"","4924","Update Full name successfully","chromium","2026-08-18","passed","2026-08-18","Update Full Name","updateFullName.spec.ts","",""
